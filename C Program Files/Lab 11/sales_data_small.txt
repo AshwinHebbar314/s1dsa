@@ -1,0 +1,11 @@
+Order ID,Product,Price,Cost,Margin
+141234,iPhone,700,231,469
+141235,Lightning Charging Cable,14.95,7.48,7.48
+141236,Wired Headphones,11.99,6,11.99
+141237,27in FHD Monitor,149.99,97.49,52.5
+141238,Wired Headphones,11.99,6,6
+141239,AAA Batteries (4-pack),2.99,1.5,1.5
+141240,27in 4K Gaming Monitor,389.99,128.7,261.29
+141241,USB-C Charging Cable,11.95,5.98,5.98
+141242,Bose SoundSport Headphones,99.99,50,50
+141243,Apple Airpods Headphones,150,97.5,52.5
